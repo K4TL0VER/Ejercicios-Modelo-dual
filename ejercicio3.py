@@ -1,3 +1,4 @@
+#Primera edición cambiada
 def comprimir_cadena(cadena):
     if not cadena:
         return ""
